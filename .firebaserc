@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "development": "chopstocks-dev",
+    "staging": "chopstocks-staging",
+    "production": "chopstocks-prod"
+  },
+  "targets": {},
+  "etags": {}
+}
